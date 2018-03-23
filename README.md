@@ -1,6 +1,6 @@
 # Nederlandse Radio Afspeellijst
 Een afspeellijst met veel Nederlandse radiostations, die hier te downloaden is:
-<a href="https://raw.githubusercontent.com/JoshGlue/nederlandseradio/master/nl_radio.m3u8" download>https://raw.githubusercontent.com/JoshGlue/nederlandseradio/master/nl_radio.m3u8</a>
+<a href="https://raw.githubusercontent.com/JoshGlue/nederlandseradio/master/nl_radio.m3u8" download>https://raw.githubusercontent.com/JoshGlue/nederlandseradio/master/nl_radio.m3u8</a> (Rechtermuisklik > Link opslaan als)
 
 ## Afspelen
 De afspeellijst kan met de meeste mediaspelers afgespeeld worden.
