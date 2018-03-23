@@ -1,0 +1,274 @@
+#EXTM3U
+#EXTINF:0,NPO Radio1
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/radio1-bb-mp3
+#EXTINF:135,NOS Journaal
+#EXTVLCOPT:network-caching=1000
+http://download.omroep.nl/nos/radionieuws/nosnieuws_bulalg.mp3
+#EXTINF:0,NPO Radio2
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/radio2-bb-mp3
+#EXTINF:0,NPO 3FM
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/3fm-bb-mp3
+#EXTINF:0,NPO 3FM KXradio
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/3fm-serioustalent-mp3
+#EXTINF:0,NPO Radio4
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:0,NPO Radio5
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/radio5-bb-mp3
+#EXTINF:0,BNR
+#EXTVLCOPT:network-caching=1000
+http://icecast-bnr.cdp.triple-it.nl/bnr_mp3_128_03
+#EXTINF:0,Qmusic
+#EXTVLCOPT:network-caching=1000
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_live_96.mp3
+#EXTINF:0,Qmusic Foute Uur
+#EXTVLCOPT:network-caching=1000
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3
+#EXTINF:0,Qmusic Nonstop
+#EXTVLCOPT:network-caching=1000
+http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3
+#EXTINF:0,538
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+#EXTINF:0,538 Dance Department
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+#EXTINF:0,538 Dance Radio
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR10.mp3
+#EXTINF:0,538 Global Dance Chart
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR05.mp3
+#EXTINF:0,538 Hitzone
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
+#EXTINF:0,538 NONSTOP
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+#EXTINF:0,538 Party
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
+#EXTINF:0,538 Top 40
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR02.mp3
+#EXTINF:0,538 Veruckten Stunde
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3
+#EXTINF:0,Radio Veronica
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3
+#EXTINF:0,Veronica Rock Radio
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3
+#EXTINF:0,Veronica Top 1000 Allertijden
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10.mp3
+#EXTINF:0,Veronica ROCKRadio
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR11.mp3
+#EXTINF:0,SLAM
+#EXTVLCOPT:network-caching=1000
+https://stream.slam.nl/slam_mp3
+#EXTINF:0,SLAM Hardstyle
+#EXTVLCOPT:network-caching=1000
+http://stream.radiocorp.nl/web11_mp3
+#EXTINF:0,SLAM Juize
+#EXTVLCOPT:network-caching=1000
+http://stream.radiocorp.nl/web09_mp3
+#EXTINF:0,SLAM Mixmarathon
+#EXTVLCOPT:network-caching=1000
+http://stream.radiocorp.nl/web13_mp3
+#EXTINF:0,SLAM Non-stop
+#EXTVLCOPT:network-caching=1000
+http://stream.radiocorp.nl/web10_mp3
+#EXTINF:0,SLAM The Boom Room
+#EXTVLCOPT:network-caching=1000
+http://stream.radiocorp.nl/web12_mp3
+#EXTINF:0,Sky Radio 00s Hits
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR06.mp3
+#EXTINF:0,Sky Radio 101 FM
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+#EXTINF:0,Sky Radio 80s Hits
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
+#EXTINF:0,Sky Radio 90s Hits
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3
+#EXTINF:0,Sky Radio Lounge
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3
+#EXTINF:0,Sky Radio Lovesongs
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3
+#EXTINF:0,Sky Radio Smooth Hits
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR15.mp3
+#EXTINF:0,Radio 10
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
+#EXTINF:0,Radio 10 60s and 70s hits
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3
+#EXTINF:0,Radio 10 80s hits
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3
+#EXTINF:0,Radio 10 90s hits
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3
+#EXTINF:0,Radio 10 Disco Classics
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3
+#EXTINF:0,Radio 10 Guilty Pleasures
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR12.mp3
+#EXTINF:0,Radio 10 Love Songs
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04.mp3
+#EXTINF:0,Radio 10 Non-Stop
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3
+#EXTINF:0,Radio 10 Number 1
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR14.mp3
+#EXTINF:0,NPO FunX Amsterdam Arab
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/funx-arab-bb-mp3
+#EXTINF:0,NPO FunX Den Haag Hip Hop
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/funx-hiphop-bb-mp3
+#EXTINF:0,NPO FunX NL
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:0,NPO FunX Rotterdam Reggae
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/funx-reggae-bb-mp3
+#EXTINF:0,NPO FunX Slow Jamz
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/funx-slowjamz-bb-mp3
+#EXTINF:0,NPO FunX Utrecht Latin
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/funx-latin-bb-mp3
+#EXTINF:0,NPO Soul&Jazz
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:0,NPO SterrenNL
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/radio2-sterrennl-mp3
+#EXTINF:0,Radio Olympia
+#EXTVLCOPT:network-caching=1000
+http://streams.olympia-radio.nl/olympia
+#EXTINF:0,Radio Continu
+#EXTVLCOPT:network-caching=1000
+http://stream.radiocontinu.nl/radiocontinu
+#EXTINF:0,RADIONL
+#EXTVLCOPT:network-caching=1000
+http://stream.radionl.fm/radionl
+#EXTINF:0,100 NL
+#EXTVLCOPT:network-caching=1000
+http://stream.100p.nl/100pctnl.mp3
+#EXTINF:0,100 NL Feest
+#EXTVLCOPT:network-caching=1000
+http://stream.radiocorp.nl/100pnl_feest_mp3
+#EXTINF:0,100 NL Liefde
+#EXTVLCOPT:network-caching=1000
+http://stream.radiocorp.nl/100pnl_liefde_mp3
+#EXTINF:0,90sDanceClassics
+#EXTVLCOPT:network-caching=1000
+http://listen.radionomy.com/90s-dance-classics
+#EXTINF:0,ARROW CAZ HITRADIO
+#EXTVLCOPT:network-caching=1000
+http://stream.arrowcaz.nl/caz128kmp3
+#EXTINF:0,ARROW CLASSIC ROCK
+#EXTVLCOPT:network-caching=1000
+http://91.221.151.155/;
+#EXTINF:0,Candlelight Radio
+#EXTVLCOPT:network-caching=1000
+http://candlelight.live-streams.nl/candlelight
+#EXTINF:0,Classic FM
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICFM.mp3
+#EXTINF:0,Concertzender
+#EXTVLCOPT:network-caching=1000
+http://streams.greenhost.nl:8080/live
+#EXTINF:0,Efteling Radio
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR07.mp3
+#EXTINF:0,Kinderradio FM
+#EXTVLCOPT:network-caching=1000
+http://kinderradio.ic-stream.nl:30039/stream
+#EXTINF:0,Tomkeradio
+#EXTVLCOPT:network-caching=1000
+http://live.icecast.kpnstreaming.nl/omropfryslanlive-Tomkeradio.mp3
+#EXTINF:0,Foute Muziek Radio
+#EXTVLCOPT:network-caching=1000
+http://foutemuziekradio.shoutcaststream.com:8226/;
+#EXTINF:0,Deep Radio
+#EXTVLCOPT:network-caching=1000
+http://sc-01.deep.fm/;
+#EXTINF:0,Fresh FM
+#EXTVLCOPT:network-caching=1000
+http://streams.fresh.fm:8108/;stream=1
+#EXTINF:0,GigantFM
+#EXTVLCOPT:network-caching=1000
+http://gigantfm.ic-stream.nl:7204/;
+#EXTINF:0,Radio 509
+#EXTVLCOPT:network-caching=1000
+http://18973.live.streamtheworld.com/RADIO509.mp3
+#EXTINF:0,Radio Caramba
+#EXTVLCOPT:network-caching=1000
+http://relay.sonixcast.com/9237
+#EXTINF:0,Radio Decibel Zuid-Holland
+#EXTVLCOPT:network-caching=1000
+http://stream.nlradio.nl/decibelzh
+#EXTINF:0,SublimeFM
+#EXTVLCOPT:network-caching=1000
+http://stream.sublimefm.nl/SublimeFM_mp3
+#EXTINF:0,Traffic Radio
+#EXTVLCOPT:network-caching=1000
+http://2.trafficstream.nl/traffic_main.mp3
+#EXTINF:0,XM The Talent Station
+#EXTVLCOPT:network-caching=1000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17.mp3
+#EXTINF:0,Omroep Brabant
+#EXTVLCOPT:network-caching=1000
+http://streaming.omroepbrabant.nl/mp3
+#EXTINF:0,Omroep Flevoland
+#EXTVLCOPT:network-caching=1000
+http://streams.omroepflevoland.nl:8000/flevoland64k
+#EXTINF:0,Omroep Zeeland
+#EXTVLCOPT:network-caching=1000
+http://livestream.zeelandnet.nl:8000/omroepzeeland_radio
+#EXTINF:0,Omrop Fryslan
+#EXTVLCOPT:network-caching=1000
+http://icecast.pmedia70.kpnstreaming.nl/omropfryslanlive-OmropFryslanRadio.mp3
+#EXTINF:0,Radio Gelderland
+#EXTVLCOPT:network-caching=1000
+http://stream.omroepgelderland.nl/radiogelderland
+#EXTINF:0,Radio Rijnmond
+#EXTVLCOPT:network-caching=1000
+http://icecast.stream.bbvms.com/rijnmond-radio-mp3
+#EXTINF:0,RTV Drenthe
+#EXTVLCOPT:network-caching=1000
+http://stream.rtvdrenthe.nl:9001/RTVRadio
+#EXTINF:0,RTV Noord
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/rtvnoord-bb-mp3
+#EXTINF:0,RTV Oost
+#EXTVLCOPT:network-caching=1000
+http://rrr.sz.xlcdn.com/?account=rtv_oost&file=RadioOost_mp3&type=live&service=icecast&output=m3u
+#EXTINF:0,RTV Utrecht
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/rtvutrecht-radio-m-bb-mp3
+#EXTINF:0,L1 Radio
+#EXTVLCOPT:network-caching=1000
+http://icecast.omroep.nl/l1-radio-sb-mp3
+#EXTINF:0,NH Radio
+#EXTVLCOPT:network-caching=1000
+http://rtvnh-ics1.streamgate.nl/rtvnh
